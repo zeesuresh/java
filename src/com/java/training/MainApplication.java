@@ -8,6 +8,7 @@ public class MainApplication {
 		System.out.println("Testing GitHub3 ");
 		System.out.println("Testing GitHub4 ");
 		System.out.println("Testing GitHub5 ");
+		System.out.println("Testing GitHub6 ");
 	}
 
 }
